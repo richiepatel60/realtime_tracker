@@ -32,23 +32,6 @@ This project is a strong demonstration of practical backend and WebSocket experi
 | Mapping    | Leaflet.js           | Map display and marker updates            |
 | Templating | EJS                  | Server-side rendering of views            |
 
----
-
-## 📁 File Structure  
-REALTIME_TRACKER/
-├── node_modules/ # Dependencies
-├── public/
-│ ├── css/
-│ │ └── style.css # Custom styling
-│ └── js/
-│ └── script.js # Client-side JS logic
-├── views/
-│ └── index.ejs # EJS template for home view
-├── app.js # Main backend application
-├── package-lock.json # Lockfile for dependencies
-├── package.json # Project metadata and scripts
-└── README.md # Project documentation
-
 
 ---
 
